@@ -1,0 +1,14 @@
+D:\coding\pemprograman\TUGAS_OPP\MobilOOP\bin\Debug\net10.0\MobilOOP.exe
+D:\coding\pemprograman\TUGAS_OPP\MobilOOP\bin\Debug\net10.0\MobilOOP.deps.json
+D:\coding\pemprograman\TUGAS_OPP\MobilOOP\bin\Debug\net10.0\MobilOOP.runtimeconfig.json
+D:\coding\pemprograman\TUGAS_OPP\MobilOOP\bin\Debug\net10.0\MobilOOP.dll
+D:\coding\pemprograman\TUGAS_OPP\MobilOOP\bin\Debug\net10.0\MobilOOP.pdb
+D:\coding\pemprograman\TUGAS_OPP\MobilOOP\obj\Debug\net10.0\MobilOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\pemprograman\TUGAS_OPP\MobilOOP\obj\Debug\net10.0\MobilOOP.AssemblyInfoInputs.cache
+D:\coding\pemprograman\TUGAS_OPP\MobilOOP\obj\Debug\net10.0\MobilOOP.AssemblyInfo.cs
+D:\coding\pemprograman\TUGAS_OPP\MobilOOP\obj\Debug\net10.0\MobilOOP.csproj.CoreCompileInputs.cache
+D:\coding\pemprograman\TUGAS_OPP\MobilOOP\obj\Debug\net10.0\MobilOOP.dll
+D:\coding\pemprograman\TUGAS_OPP\MobilOOP\obj\Debug\net10.0\refint\MobilOOP.dll
+D:\coding\pemprograman\TUGAS_OPP\MobilOOP\obj\Debug\net10.0\MobilOOP.pdb
+D:\coding\pemprograman\TUGAS_OPP\MobilOOP\obj\Debug\net10.0\MobilOOP.genruntimeconfig.cache
+D:\coding\pemprograman\TUGAS_OPP\MobilOOP\obj\Debug\net10.0\ref\MobilOOP.dll
